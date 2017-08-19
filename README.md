@@ -1,3 +1,3 @@
 # Machine-learning
 
-ML algorithms applied to random data
+ML algorithms applied to public datasets
