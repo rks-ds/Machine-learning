@@ -5,7 +5,7 @@ Kaggle -https://www.kaggle.com/c/nlp-getting-started/overview
 Glove vectors - https://nlp.stanford.edu/projects/glove/
 
 Steps -
-1. Fork the Repo
+1. Clone the Repo
 2. Open Terminal
 3. Run the command - python app.py
 
